@@ -4,7 +4,7 @@
     xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
    crs:PresetType="Normal"
    crs:Cluster=""
-   crs:UUID="67E8E626940E43AB88C1D4CCC1EF1D4F"
+   crs:UUID="DE2803BDD4654AC5B38B8DA53516BC96"
    crs:SupportsAmount="False"
    crs:SupportsColor="True"
    crs:SupportsMonochrome="True"
@@ -25,7 +25,7 @@
    crs:HasSettings="True">
    <crs:Name>
     <rdf:Alt>
-     <rdf:li xml:lang="x-default">Muuk-Grain</rdf:li>
+     <rdf:li xml:lang="x-default">Grain-1</rdf:li>
     </rdf:Alt>
    </crs:Name>
    <crs:ShortName>
@@ -40,7 +40,7 @@
    </crs:SortName>
    <crs:Group>
     <rdf:Alt>
-     <rdf:li xml:lang="x-default">MookPatch</rdf:li>
+     <rdf:li xml:lang="x-default">MuukPatch</rdf:li>
     </rdf:Alt>
    </crs:Group>
    <crs:Description>

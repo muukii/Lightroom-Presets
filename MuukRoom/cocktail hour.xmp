@@ -4,7 +4,7 @@
     xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
    crs:PresetType="Normal"
    crs:Cluster=""
-   crs:UUID="79D4AFB290B54720B25A5C81AF3A987C"
+   crs:UUID="745D17A18BD34ECA9702F340A6E9323D"
    crs:SupportsAmount="False"
    crs:SupportsColor="True"
    crs:SupportsMonochrome="True"
@@ -83,10 +83,6 @@
    crs:ColorGradeGlobalHue="0"
    crs:ColorGradeGlobalSat="0"
    crs:ColorGradeGlobalLum="0"
-   crs:GrainAmount="29"
-   crs:GrainSize="15"
-   crs:GrainFrequency="74"
-   crs:PostCropVignetteAmount="0"
    crs:ShadowTint="-5"
    crs:RedHue="+35"
    crs:RedSaturation="+31"
@@ -94,13 +90,12 @@
    crs:GreenSaturation="-10"
    crs:BlueHue="-11"
    crs:BlueSaturation="-52"
-   crs:OverrideLookVignette="False"
    crs:ToneCurveName2012="Custom"
    crs:HasSettings="True"
    crs:CropConstrainToWarp="0">
    <crs:Name>
     <rdf:Alt>
-     <rdf:li xml:lang="x-default">cocktail hour</rdf:li>
+     <rdf:li xml:lang="x-default">Cocktail hour</rdf:li>
     </rdf:Alt>
    </crs:Name>
    <crs:ShortName>
